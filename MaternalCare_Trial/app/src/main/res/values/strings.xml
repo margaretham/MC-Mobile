@@ -1,0 +1,65 @@
+<resources>
+    <string name="app_name">Maternal</string>
+    <string name="forgot_password"><u>Forgot password?</u></string>
+    <string name="dont_have_account"><u>Dont have account?</u></string>
+    <string name="signIn">Sign In</string>
+    <string name="register">Register</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="password">Password</string>
+    <string name="UsernameOrEmail">Username / E-mail</string>
+    <string name="fullname">Full Name</string>
+    <string name="Username">Username</string>
+    <string name="Email">Email</string>
+    <string name="app_name2">MartenalCare</string>
+    <string name="error_message">Error message</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="home">Home</string>
+    <string name="have_account">Already Have Account? </string>
+    <string name="previous">Previous</string>
+    <string name="date_of_birth">Date Of Birth</string>
+    <string name="telephone">Telephone Number</string>
+    <string name="no_whitespace">No Whitespaces are allowed</string>
+    <string name="enter_name">Name must be filled out</string>
+    <string name="enter_password">Password must be filled out</string>
+    <string name="enter_email">Enter an email address</string>
+    <string name="enter_username">Username must be filled out</string>
+    <string name="enter_date">Date must be filled out</string>
+    <string name="enter_tel">Telephone must be filled out</string>
+    <string name="success">Success</string>
+    <string name="registration_success">Registration Success</string>
+    <string name="next">Next</string>
+    <string name="sorry">Oops</string>
+    <string name="repeat">Repeat</string>
+    <string name="wrong_date_of_birth">The date of birth cannot exceed the current date</string>
+    <string name="create_account_failed">We have an error while creating your account %1$s</string>
+    <string name="title_article">Article </string>
+    <string name="news_images">News Images</string>
+    <string name="title_history">History </string>
+
+    <string name="profile">Profile</string>
+    <string name="articles">Articles</string>
+
+    <string name="new_password">New Password</string>
+    <string name="reset_password">Reset Password</string>
+    <string name="name">Name</string>
+    <string name="age">Age</string>
+    <string name="hpl">Hpl</string>
+    <string name="kondisi">Normal/Medium/Risk</string>
+    <string name="already_have_account">Already have an account? Login</string>
+    <string name="edit_profile">edit profil</string>
+
+    <string name="welcome_back">Welcome Back</string>
+    <string name="your_progress">Wait for</string>
+    <string name="daily_report">Start Daily Report</string>
+    <string name="insert_daily_report">Insert Your Daily Report</string>
+    <string name="recommendations">Recommendations For You</string>
+    <string name="your_baby_age">Your Baby Age</string>
+    <string name="baby_age">Baby Age</string>
+
+
+
+
+
+
+
+</resources>
