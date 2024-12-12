@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="cream">#FAEDCD</color>
+    <color name="navy">#313857</color>
+    <color name="navy2">#598099</color>
+    <color name="pink">#EDBABC</color>
+    <color name="pinkTua">#BB7B85</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="Email">Email</string>
+    <string name="Username">Username</string>
+    <string name="UsernameOrEmail">Username / E-mail</string>
+    <string name="app_name">Maternal</string>
+    <string name="app_name2">MartenalCare</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="create_account_failed">We have an error while creating your account %1$s</string>
+    <string name="date_of_birth">Date Of Birth</string>
+    <string name="dont_have_account"><u>Dont have account?</u></string>
+    <string name="enter_date">Date must be filled out</string>
+    <string name="enter_email">Enter an email address</string>
+    <string name="enter_name">Name must be filled out</string>
+    <string name="enter_password">Password must be filled out</string>
+    <string name="enter_tel">Telephone must be filled out</string>
+    <string name="enter_username">Username must be filled out</string>
+    <string name="error_message">Error message</string>
+    <string name="forgot_password"><u>Forgot password?</u></string>
+    <string name="fullname">Full Name</string>
+    <string name="have_account">Already Have Account? </string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="home">Home</string>
+    <string name="news_images">News Images</string>
+    <string name="next">Next</string>
+    <string name="no_whitespace">No Whitespaces are allowed</string>
+    <string name="password">Password</string>
+    <string name="previous">Previous</string>
+    <string name="register">Register</string>
+    <string name="registration_success">Registration Success</string>
+    <string name="repeat">Repeat</string>
+    <string name="signIn">Sign In</string>
+    <string name="sorry">Oops</string>
+    <string name="success">Success</string>
+    <string name="telephone">Telephone Number</string>
+    <string name="title_article">Article </string>
+    <string name="title_history">History </string>
+    <string name="wrong_date_of_birth">The date of birth cannot exceed the current date</string>
+    <style name="Base.Theme.MaternalCare" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style>
+    <style name="Theme.MaternalCare" parent="Base.Theme.MaternalCare"/>
+</resources>

@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "com.capstone.maternalcare.app-mergeDebugResources-3:/layout/item_row_history.xml",
+        "source": "com.capstone.maternalcare.app-main-6:/layout/item_row_history.xml"
+    },
+    {
+        "merged": "com.capstone.maternalcare.app-mergeDebugResources-3:/layout/activity_splashscreen.xml",
+        "source": "com.capstone.maternalcare.app-main-6:/layout/activity_splashscreen.xml"
+    },
+    {
+        "merged": "com.capstone.maternalcare.app-mergeDebugResources-3:/layout/activity_register2.xml",
+        "source": "com.capstone.maternalcare.app-main-6:/layout/activity_register2.xml"
+    },
+    {
+        "merged": "com.capstone.maternalcare.app-mergeDebugResources-3:/layout/activity_register.xml",
+        "source": "com.capstone.maternalcare.app-main-6:/layout/activity_register.xml"
+    },
+    {
+        "merged": "com.capstone.maternalcare.app-mergeDebugResources-3:/layout/fragment_articles.xml",
+        "source": "com.capstone.maternalcare.app-main-6:/layout/fragment_articles.xml"
+    },
+    {
+        "merged": "com.capstone.maternalcare.app-mergeDebugResources-3:/layout/fragment_home.xml",
+        "source": "com.capstone.maternalcare.app-main-6:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "com.capstone.maternalcare.app-mergeDebugResources-3:/layout/activity_login.xml",
+        "source": "com.capstone.maternalcare.app-main-6:/layout/activity_login.xml"
+    },
+    {
+        "merged": "com.capstone.maternalcare.app-mergeDebugResources-3:/layout/activity_detail_article.xml",
+        "source": "com.capstone.maternalcare.app-main-6:/layout/activity_detail_article.xml"
+    },
+    {
+        "merged": "com.capstone.maternalcare.app-mergeDebugResources-3:/layout/activity_main.xml",
+        "source": "com.capstone.maternalcare.app-main-6:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.capstone.maternalcare.app-mergeDebugResources-3:/layout/fragment_profile.xml",
+        "source": "com.capstone.maternalcare.app-main-6:/layout/fragment_profile.xml"
+    },
+    {
+        "merged": "com.capstone.maternalcare.app-mergeDebugResources-3:/layout/item_row_article.xml",
+        "source": "com.capstone.maternalcare.app-main-6:/layout/item_row_article.xml"
+    },
+    {
+        "merged": "com.capstone.maternalcare.app-mergeDebugResources-3:/layout/activity_history.xml",
+        "source": "com.capstone.maternalcare.app-main-6:/layout/activity_history.xml"
+    }
+]

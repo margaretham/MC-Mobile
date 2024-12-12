@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/navigation_home">
+
+    <fragment
+        android:id="@+id/navigation_home"
+        android:name="com.capstone.maternalcare.ui.home.HomeFragment"
+        android:label="Profile Fragment"
+        tools:layout="@layout/fragment_profile" >
+        <action
+            android:id="@+id/action_navigation_profile_to_navigation_home"
+            app:destination="@id/navigation_home"
+            app:popUpTo="@id/mobile_navigation"
+            app:popUpToInclusive="false"/>
+        <action
+            android:id="@+id/action_navigation_profile_to_navigation_article"
+            app:destination="@id/navigation_article"
+            app:popUpTo="@id/mobile_navigation"
+            app:popUpToInclusive="false"/>
+    </fragment>
+
+    <fragment
+        android:id="@+id/navigation_article"
+        android:name="com.capstone.maternalcare.ui.recomendations.ArticlesFragment"
+        android:label="Articles Fragment"
+        tools:layout="@layout/fragment_articles" >
+        <action
+            android:id="@+id/action_navigation_article_to_navigation_home"
+            app:destination="@id/navigation_home"
+            app:popUpTo="@id/mobile_navigation"
+            app:popUpToInclusive="false"/>
+
+        <action
+            android:id="@+id/action_navigation_article_to_navigation_profile"
+            app:destination="@id/navigation_profile"
+            app:popUpTo="@id/mobile_navigation"
+            app:popUpToInclusive="false"/>
+    </fragment>
+
+    <fragment
+        android:id="@+id/navigation_profile"
+        android:name="com.capstone.maternalcare.ui.profil.PorfilFragment"
+        android:label="Profile Fragment"
+        tools:layout="@layout/fragment_profile" >
+        <action
+            android:id="@+id/action_navigation_profile_to_navigation_home"
+            app:destination="@id/navigation_home"
+            app:popUpTo="@id/mobile_navigation"
+            app:popUpToInclusive="false"/>
+        <action
+            android:id="@+id/action_navigation_profile_to_navigation_article"
+            app:destination="@id/navigation_article"
+            app:popUpTo="@id/mobile_navigation"
+            app:popUpToInclusive="false"/>
+    </fragment>
+
+</navigation>
