@@ -1,0 +1,15 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.MaternalCare" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/text_primary_light</item>
+        <item name="colorSecondary">@color/text_secondary_light</item>
+        <item name="colorTertiary">@color/text_tertiary_light</item>
+        <item name="colorAccent">@color/GreyLight</item>
+        <item name="colorSecondaryVariant">@color/text_quinary_light</item>
+        <item name="colorButtonNormal">@color/ButtonLight</item>
+        <item name="colorPrimaryVariant">@color/ButtonTextLight</item>
+        <item name="colorOnBackground">@color/background_light</item>
+    </style>
+
+    <style name="Theme.MaternalCare" parent="Base.Theme.MaternalCare" />
+</resources>
