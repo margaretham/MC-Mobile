@@ -1,3 +1,0 @@
-com.capstone.maternalcare.test
-style WhiteBackgroundDialogTheme
-style WhiteBackgroundTheme
