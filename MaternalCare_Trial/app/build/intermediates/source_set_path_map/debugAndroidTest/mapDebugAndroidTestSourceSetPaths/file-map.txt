@@ -1,6 +1,0 @@
-com.capstone.maternalcare.test.app-androidTest-0 C:\Kuliah\Kegiatan\BANGKIT\Capstoon\MaternalCare_Trial\app\build\generated\res\resValues\androidTest\debug
-com.capstone.maternalcare.test.app-mergeDebugAndroidTestResources-1 C:\Kuliah\Kegiatan\BANGKIT\Capstoon\MaternalCare_Trial\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
-com.capstone.maternalcare.test.app-mergeDebugAndroidTestResources-2 C:\Kuliah\Kegiatan\BANGKIT\Capstoon\MaternalCare_Trial\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
-com.capstone.maternalcare.test.app-debugAndroidTest-3 C:\Kuliah\Kegiatan\BANGKIT\Capstoon\MaternalCare_Trial\app\build\intermediates\merged_res\debugAndroidTest\mergeDebugAndroidTestResources
-com.capstone.maternalcare.test.app-core-1.6.1-4 C:\Users\LENOVO\.gradle\caches\transforms-3\901cb0bd2023c90f2054d15ddf49e4e9\transformed\core-1.6.1\res
-com.capstone.maternalcare.test.app-tracing-1.2.0-5 C:\Users\LENOVO\.gradle\caches\transforms-3\db74d5224cd0b6a1f86f5e132851991e\transformed\tracing-1.2.0\res
