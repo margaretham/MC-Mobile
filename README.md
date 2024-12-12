@@ -8,8 +8,8 @@ Here is our repository for the Bangkit 2024 Capstone Project - Mobile Developmen
 
 | Task                | Week 1          | Week 2                | Week 3                 | Week 4           |  
 |---------------------|-----------------|-----------------------|------------------------|------------------|  
-| **Task 1**          | UI/UX Design    | Create Main UI        | Add Machine Learning Model | Add Nearby Hospital Location |  
-| **Task 2**          | Create Concept  | Authentication Page   | Diagnose Page          | User Testing     |  
+| **Task 1**          | UI/UX Design    | Create Main UI        | Add Machine Learning Model | Add Article  |  
+| **Task 2**          | Create Concept  | Authentication Page   | Profile Page          | User Testing     |  
 | **Task 3**          |                 | Integrate with API    | Add Some Features      | Fix Bugs         |  
 
 ## Our Features 🚀  
