@@ -12,7 +12,7 @@ Here is our repository for the Bangkit 2024 Capstone Project - Mobile Developmen
 | **Task 2**          | Create Concept  | Authentication Page   | Profile Page          | User Testing     |  
 | **Task 3**          |                 | Integrate with API    | Add Some Features      | Fix Bugs         |  
 
-## Our Features 🚀  
+## Our Features 
 - Onboarding Page  
 - Splash Screen  
 - Authentication (Login, Register)  
